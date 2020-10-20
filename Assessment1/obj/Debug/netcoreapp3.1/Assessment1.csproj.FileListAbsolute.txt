@@ -1,0 +1,13 @@
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.exe
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.deps.json
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.runtimeconfig.json
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.runtimeconfig.dev.json
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.dll
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\bin\Debug\netcoreapp3.1\Assessment1.pdb
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.csprojAssemblyReference.cache
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfoInputs.cache
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.AssemblyInfo.cs
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.dll
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.pdb
+C:\Users\Lauren\Desktop\assessment-1-02Jensenl\Assessment1\obj\Debug\netcoreapp3.1\Assessment1.genruntimeconfig.cache

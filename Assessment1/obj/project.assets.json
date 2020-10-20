@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\grand\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Lauren\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\Assessment1\\Assessment1\\Assessment1.csproj",
+      "projectUniqueName": "C:\\Users\\Lauren\\Desktop\\assessment-1-02Jensenl\\Assessment1\\Assessment1.csproj",
       "projectName": "Assessment1",
-      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Assessment1\\Assessment1\\Assessment1.csproj",
-      "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Assessment1\\Assessment1\\obj\\",
+      "projectPath": "C:\\Users\\Lauren\\Desktop\\assessment-1-02Jensenl\\Assessment1\\Assessment1.csproj",
+      "packagesPath": "C:\\Users\\Lauren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lauren\\Desktop\\assessment-1-02Jensenl\\Assessment1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\grand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lauren\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
