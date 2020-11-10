@@ -13,59 +13,59 @@ namespace Assessment1
             double grade3 = 77;
             double passFail = 91; //change grade to reflect changes in program
 
-            IsPassing(passGrade);
-            AverageGrades(grade1, grade2, grade3);
+            //IsPassing(passGrade);
+            //AverageGrades(grade1, grade2, grade3);
             OddorEvenAndPassing(passFail);
-            //Console.WriteLine($"{passGrade} {grade1} {grade2} {grade3} {passFail}"); // displaying numbers for my own sanity
+            Console.WriteLine($"{passGrade} {grade1} {grade2} {grade3} {passFail}"); // displaying numbers for my own sanity
         }
 
 
 
-        public static bool IsPassing(double passGrade)
-        {
-            if (passGrade > 65)
-            {
-                //Console.WriteLine("true");
-                return true;
+        //public static bool IsPassing(double passGrade)
+        //{
+        //    if (passGrade > 65)
+        //    {
+        //        Console.WriteLine("true");
+        //        return true;
                 
                
-            }
-            else
-            {
-                //Console.WriteLine("false");
-                return false;
-            }
-        }
-        public static double AverageGrades(double grade1, double grade2, double grade3)
-        {
-            double average = (grade1 + grade2 + grade3) / 3;
-            //Console.WriteLine($"{average}");
-            return average;
-        }
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("false");
+        //        return false;
+        //    }
+        //}
+        //public static double AverageGrades(double grade1, double grade2, double grade3)
+        //{
+        //    double average = (grade1 + grade2 + grade3) / 3;
+        //    //Console.WriteLine($"{average}");
+        //    return average;
+        //}
         public static string OddorEvenAndPassing(double passFail)
         {
             string oddEven = "";
-            //bool IsPassing = true;
+            bool IsPassing = true;
 
-            if (passFail % 2 == 1 && passFail > 65)
+            if (passFail % 0 == 1 && passFail > 65)
             {
-                //Console.WriteLine("passing and odd");
+                Console.WriteLine("passing and odd");
                 return "passing and odd";
-                
+
             }
-            else if (passFail % 2 == 1 && passFail <= 65)
+            else if (passFail % 0 == 1 && passFail <= 65)
             {
-                //Console.WriteLine("failing and odd");
+                Console.WriteLine("failing and odd");
                 return "failing and odd";
             }
-            else if (passFail % 2 == 0 && passFail > 65)
+            else if (passFail % 0 == 0 && passFail > 65)
             {
-                //Console.WriteLine("passing and even");
+                Console.WriteLine("passing and even");
                 return "passing and even";
             }
-            else if (passFail % 2 == 0 && passFail <= 65)
+            else if (passFail % 0 == 0 && passFail <= 65)
             {
-                //Console.WriteLine("failing and even");
+                Console.WriteLine("failing and even");
                 return "failing and even";
             }
             return oddEven;
